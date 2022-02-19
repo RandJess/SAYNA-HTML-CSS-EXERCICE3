@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Raleway, Arial, sans-serif ;
+}
+
+header{
+    background: #30273d;
+}
+
+/* Lien dans header */
+a.nav {
+    color: #ffff ;
+}
+a.nav_GetIt{
+    color: #3d9f96;
+}
+
+a.nav:link {
+    color: #ffff ;
+  }
+  
+a.nav:visited {
+    color: rgb(114, 108, 194) ;
+  }
+  
+a.nav:hover {
+    color: #3d9f96;
+  }
+  
+a.nav:active {
+    color: hotpink;
+  } 
+
+  /* Une superposition de deux images */
+.telephone {
+      position: relative;
+  }
+.le_mot_play {
+      position: absolute;
+      margin-top: 45%;
+      margin-left: -45%;
+  }
+
+.a2{ 
+    color: #ffff;
+}
+
+.block2{
+    background: #30273d;
+    color: #ffff;
+}
+.a1 {
+    color: #3d9f96;
+}
+.b1 {
+    background: #f9f9f9;
+}
+
+.tex-center  {
+    margin: 20%;
+}
+
+/* Boutton */
+p.btn1{
+    background-color: #3d9f96; 
+    border: none ;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.cartoon {
+    width: 50% ;
+}
+
+.engris {
+    color: #8f8989;
+}
+.b2{
+    background-image: url('assets/img/map_bg.png');
+}
+.b3{
+    background:#30273d ;
+}
+.py-5{
+    margin-left: 20% ;
+}
+.b4 {
+    background: #f9f9f9;
+}
+.btn2{
+    background: #3d9f96;
+    border: none;
+    text-align: center;
+    border-radius: 25px;
+    color: #ffff;
+    padding: 10px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 15%;
+    width: 49%;
+}
+.b5 {
+    background: #f9f9f9;
+}
+.icon > img {
+    width: 15% ;
+    padding-left: 5%;
+}
+
+.liste {
+    list-style-type: none;
+}
